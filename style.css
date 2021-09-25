@@ -328,6 +328,7 @@ nav.show div.icon-open {
 
 #testimonials {
   background: white;
+  overflow: hidden;
 }
 #testimonials .container {
   margin-left: 0;
